@@ -1,0 +1,11 @@
+.jumbotron {
+    padding: 50px;
+    background-image: url(/img/nbabanner.png);
+}
+.navbar {
+    background-color: gold;
+    font-size: 20px;
+}
+
+h3 {
+    font-family: "Goudy Bookletter 1911", sans-serif }
